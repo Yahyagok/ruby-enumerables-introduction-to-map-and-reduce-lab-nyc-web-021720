@@ -52,7 +52,7 @@ end
  
  def reduce_to_all_true(source_array)
   index = 0 
-  at_least_one_is_false = false
+  all_elements_true = true
   
    while index < source_array.length do 
      if source_array[index] 
