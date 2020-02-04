@@ -34,7 +34,7 @@ end
 end 
 
 
- def reduce_to_total(source_array, starting_point)
+ def reduce_to_total(source_array)
   
   total = starting_point 
   index  = 0 
