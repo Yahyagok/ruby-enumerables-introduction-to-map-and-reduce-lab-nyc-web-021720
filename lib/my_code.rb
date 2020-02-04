@@ -38,7 +38,7 @@ end
   
   total = starting_point 
   index  = 0 
-  while index < source_array.length 
+  while index < source_array.length do 
   
   total += source_array[index]
    index +=1
