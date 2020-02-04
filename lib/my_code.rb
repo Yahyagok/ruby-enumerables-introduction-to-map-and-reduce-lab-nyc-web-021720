@@ -55,15 +55,15 @@ end
   all_elements_true = true
   
    while index < source_array.length do 
-     if source_array[index] 
-        true  
+     if !source_array[index] 
+        return false   
        
      end
      index +=1
    end 
    
    
-   true 
+  
   
   end 
    
