@@ -69,7 +69,8 @@ end
   
 def reduce_to_any_true(source_array)
   index = 0 
-  any_of_them_true = 
+  any_of_them_true = true 
+  
   
 end 
    
