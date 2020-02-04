@@ -43,10 +43,7 @@ end
   total += source_array[index]
    index +=1
  end 
- 
-   total 
-   
-   
+ total 
  end 
 
 
