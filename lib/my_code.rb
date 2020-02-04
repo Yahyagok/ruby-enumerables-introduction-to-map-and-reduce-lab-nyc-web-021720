@@ -41,12 +41,6 @@ end
   while index < source_array.length 
   
   total += source_array[index]
-   
-   
-   
-   
-   
-  
    index +=1
  end 
  
