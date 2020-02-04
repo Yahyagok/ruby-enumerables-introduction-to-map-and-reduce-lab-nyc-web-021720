@@ -72,7 +72,7 @@ def reduce_to_any_true(source_array)
   any_of_them_true = true 
   while index < source_array.length 
   if source_array[index]
-    true
+     return true
 end 
 index +=1
 end
