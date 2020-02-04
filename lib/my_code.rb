@@ -74,6 +74,7 @@ def reduce_to_any_true(source_array)
   if source_array[index]
     true
 end 
+end
   false
 end 
    
